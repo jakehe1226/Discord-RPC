@@ -1,0 +1,14 @@
+{
+  "name": "coding",
+  "version": "1.0.0",
+  "description": "coding status",
+  "main": "app.js",
+  "scripts": {
+    "test": "node ./src/app.js"
+  },
+  "author": "Jake He",
+  "license": "ISC",
+  "dependencies": {
+    "discord-rpc": "^4.0.1"
+  }
+}
